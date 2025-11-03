@@ -47,13 +47,8 @@
             <mxPoint x="342.78260869565224" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q0RRH_xw8ObcBPqkgr3--49" value="输入:&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;技术文档&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q0RRH_xw8ObcBPqkgr3--48">
-          <mxGeometry x="-0.2063" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q0RRH_xw8ObcBPqkgr3--24" value="start" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;strokeColor=#B9E0A5;" vertex="1" parent="1">
-          <mxGeometry x="298.25" y="130" width="88.5" height="30" as="geometry" />
+        <mxCell id="Q0RRH_xw8ObcBPqkgr3--24" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px; text-wrap-mode: nowrap; color: light-dark(rgb(26, 26, 26), rgb(215, 215, 215)); background-color: transparent;&quot;&gt;输入: 技术文档&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E6FFCC;strokeColor=#B9E0A5;" vertex="1" parent="1">
+          <mxGeometry x="298.25" y="140" width="88.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Q0RRH_xw8ObcBPqkgr3--29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#66B2FF;" edge="1" parent="1" target="Q0RRH_xw8ObcBPqkgr3--7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
